@@ -6,16 +6,13 @@
       </h1>
 
       <div class="infoContainer">
-        <div class="name">Jay Jin's TIL</div>
+        <div class="name">한재덕 TIL</div>
         <ul>
           <li>
-            <a href="https://milooy.wordpress.com/">Blog</a>
+            <a href="https://co-deok.tistory.com/">Blog</a>
           </li>
           <li>
-            <a href="https://github.com/milooy">GitHub</a>
-          </li>
-          <li>
-            <a href="https://soundcloud.com/hellojayjin">SoundCloud</a>
+            <a href="https://github.com/jaedeokhan">GitHub</a>
           </li>
         </ul>
       </div>
@@ -32,32 +29,36 @@
 .infoContainer {
   text-align: right;
 }
-h1 {
+.infoContainer ul {
+  list-style: none;
+  line-height: 1.5rem;
+}
+.titleContainer h1 {
   font-family: "Gugi", cursive;
   font-weight: 500;
-  border-bottom: 17px solid #ffd816;
+  border-bottom: 17px solid #467fbf;
   word-break: keep-all;
   font-size: 5rem;
+}
+h1 { 
+  color: #111; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  font-size: 50px; 
+  font-weight: bold; 
+  letter-spacing: -1px; 
 }
 .name {
   font-weight: 900;
   font-size: 2rem;
 }
-ul {
-  list-style: none;
-  line-height: 1.5rem;
-}
-
 @media (max-width: 550px) {
   h1 {
     font-size: 4.4rem;
   }
-
   .name {
     font-size: 1.7rem;
   }
 }
-
 @media (max-width: 430px) {
   h1 {
     font-size: 3.4rem;
