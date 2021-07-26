@@ -33,19 +33,19 @@
   list-style: none;
   line-height: 1.5rem;
 }
+h1 {
+  font-family: "Gugi", cursive;
+  font-weight: 500;
+  border-bottom: 17px solid #467fbf;
+  word-break: keep-all;
+  font-size: 50px;
+}
 .titleContainer h1 {
   font-family: "Gugi", cursive;
   font-weight: 500;
   border-bottom: 17px solid #467fbf;
   word-break: keep-all;
-  font-size: 5rem;
-}
-h1 { 
-  color: #111; 
-  font-family: 'Helvetica Neue', sans-serif; 
-  font-size: 50px; 
-  font-weight: bold; 
-  letter-spacing: -1px; 
+  font-size: 3.5rem;
 }
 .name {
   font-weight: 900;
