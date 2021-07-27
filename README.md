@@ -1,6 +1,6 @@
 # Today I Learned
 
-[TIL 사이트](https://jaedeokhan.github.io/TIL)로 가기
+[TIL 사이트](https://jaedeokhan.github.io/TIL)로 가기 (:
 
 [출처](http://milooy.github.io/TIL/)는 milooy님의 TIL 사이트입니다.
 
