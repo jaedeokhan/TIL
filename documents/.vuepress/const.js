@@ -9,3 +9,7 @@ exports.SpringList = [
 
 exports.GitList = [
 ];
+
+exports.AlgorithmList = [
+  "Algorithm/210728-binary-search"
+];

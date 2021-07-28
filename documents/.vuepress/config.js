@@ -24,6 +24,10 @@ module.exports = {
       {
         title: 'Git',
         children: CONST.GitList
+      },
+      {
+        title: 'Algorithm',
+        children: CONST.AlgorithmList
       }
     ],
     nav: [{
