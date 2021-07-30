@@ -15,3 +15,7 @@ exports.AlgorithmList = [
   "Algorithm/210728-binary-search",
   "Algorithm/210730-recursive"
 ];
+
+exports.JavaAlgorithmReviewList = [
+  "Java-Algorithm-Review/210730-Section07-01-재귀함수"
+];

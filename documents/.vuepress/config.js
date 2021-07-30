@@ -28,6 +28,10 @@ module.exports = {
       {
         title: 'Algorithm',
         children: CONST.AlgorithmList
+      },
+      {
+        title: 'Java Algorithm Review',
+        children: CONST.JavaAlgorithmReviewList
       }
     ],
     nav: [{
