@@ -2,9 +2,9 @@
 
 [TIL 사이트](https://jaedeokhan.github.io/TIL)로 가기 (:
 
-[출처](https://github.com/milooy/TIL)는 milooy님의 TIL입니다.
+[출처](https://github.com/milooy/TIL)는 진유림(milooy)님의 TIL입니다.
 
-milooy님의 [TIL](http://milooy.github.io/TIL/) 사이트입니다.
+진유림(milooy)님의 [TIL](http://milooy.github.io/TIL/) 사이트입니다.
 
 ## 로컬에서 띄우기
 ```bash
