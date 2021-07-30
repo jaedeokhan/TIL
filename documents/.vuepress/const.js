@@ -12,5 +12,6 @@ exports.GitList = [
 ];
 
 exports.AlgorithmList = [
-  "Algorithm/210728-binary-search"
+  "Algorithm/210728-binary-search",
+  "Algorithm/210730-recursive"
 ];
