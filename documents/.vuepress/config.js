@@ -32,6 +32,10 @@ module.exports = {
       {
         title: 'Java Algorithm Review',
         children: CONST.JavaAlgorithmReviewList
+      },
+      {
+        title: 'IDE',
+        children: CONST.IDEList
       }
     ],
     nav: [{
