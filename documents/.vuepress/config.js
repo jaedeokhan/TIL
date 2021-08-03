@@ -18,6 +18,14 @@ module.exports = {
         children: CONST.JavaList
       },
       {
+        title: 'Java Algorithm Review',
+        children: CONST.JavaAlgorithmReviewList
+      },
+      {
+        title: 'Java PlayGround Review',
+        children: CONST.JavaPlayGroundReviewList
+      },
+      {
         title: 'Spring',
         children: CONST.SpringList
       },
@@ -28,10 +36,6 @@ module.exports = {
       {
         title: 'Algorithm',
         children: CONST.AlgorithmList
-      },
-      {
-        title: 'Java Algorithm Review',
-        children: CONST.JavaAlgorithmReviewList
       },
       {
         title: 'IDE',
